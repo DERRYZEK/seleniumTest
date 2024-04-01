@@ -1,0 +1,8 @@
+INFO     test_orderItem:test_orderItem.py:12 getting all the items
+INFO     test_orderItem:test_orderItem.py:20 iphone X
+INFO     test_orderItem:test_orderItem.py:20 Samsung Note 8
+INFO     test_orderItem:test_orderItem.py:20 Nokia Edge
+INFO     test_orderItem:test_orderItem.py:20 Blackberry
+INFO     test_orderItem:test_orderItem.py:27 Entering country name as ind
+INFO     test_orderItem:test_orderItem.py:38 Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

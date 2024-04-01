@@ -1,0 +1,322 @@
+2024-03-31 08:26:10,467 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:26:10,559 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:26:10,638 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:26:10,694 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:26:10,731 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:26:10,858 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:26:11,265 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:26:11,265 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:26:11,338 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:26:11,338 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:26:11,408 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:26:11,408 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:26:11,459 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:26:11,459 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:26:11,498 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:26:11,498 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:26:11,630 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:26:11,630 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:26:19,055 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 08:26:19,081 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 08:26:19,087 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 08:26:19,093 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 08:26:19,099 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 08:26:19,217 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 08:26:24,433 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 08:34:50,728 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:34:50,827 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:34:50,898 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:34:50,951 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:34:50,992 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:34:51,116 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:34:51,511 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:34:51,511 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:34:51,582 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:34:51,582 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:34:51,644 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:34:51,644 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:34:51,694 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:34:51,694 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:34:51,733 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:34:51,733 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:34:51,850 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:34:51,850 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:34:58,996 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 08:34:59,013 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 08:34:59,019 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 08:34:59,024 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 08:34:59,029 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 08:34:59,147 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 08:35:04,363 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 08:46:04,558 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:46:04,643 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:46:04,710 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:46:04,757 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:46:04,794 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:46:04,913 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:46:05,482 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:46:05,482 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:46:05,554 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:46:05,554 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 08:46:05,615 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:46:05,615 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 08:46:05,662 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:46:05,662 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 08:46:05,694 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:46:05,694 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 08:46:05,809 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:46:05,809 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 08:46:12,584 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 08:46:12,600 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 08:46:12,606 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 08:46:12,611 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 08:46:12,617 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 08:46:12,736 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 08:46:17,929 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 08:49:03,807 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:49:08,991 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 08:49:08,991 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:52:27,986 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:52:28,055 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:52:28,105 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:52:28,147 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:52:28,188 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:52:28,304 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:52:28,799 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:52:28,799 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:52:28,845 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:52:28,845 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:52:28,887 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:52:28,887 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:52:28,922 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:52:28,922 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:52:28,953 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:52:28,953 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:52:29,065 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:52:29,065 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:53:00,385 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 15:53:00,428 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 15:53:00,433 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 15:53:00,446 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 15:53:00,455 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 15:53:00,576 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 15:53:05,771 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 15:57:35,298 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:57:35,365 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:57:35,416 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:57:35,460 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:57:35,495 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:57:35,616 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:57:37,184 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:57:37,184 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 15:57:37,234 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:57:37,234 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 15:57:37,279 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:57:37,279 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 15:57:37,316 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:57:37,316 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 15:57:37,359 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:57:37,359 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 15:57:37,495 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:57:37,495 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 15:58:21,575 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 15:58:21,600 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 15:58:21,609 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 15:58:21,615 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 15:58:21,620 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 15:58:21,730 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 15:58:26,921 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:09:32,044 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:09:32,151 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:09:32,205 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:09:32,242 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:09:32,277 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:09:32,397 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:09:32,857 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:09:32,857 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:09:32,906 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:09:32,906 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:09:32,949 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:09:32,949 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:09:32,985 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:09:32,985 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:09:33,019 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:09:33,019 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:09:33,134 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:09:33,134 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:10:00,416 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:10:00,436 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:10:00,453 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:10:00,461 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:10:00,468 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:10:00,584 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:10:05,787 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:13:26,849 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:13:26,918 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:13:26,966 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:13:27,005 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:13:27,040 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:13:27,156 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:13:27,653 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:13:27,653 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:13:27,701 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:13:27,701 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:13:27,747 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:13:27,747 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:13:27,786 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:13:27,786 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:13:27,823 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:13:27,823 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:13:27,939 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:13:27,939 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:13:45,037 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:13:45,062 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:13:45,069 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:13:45,074 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:13:45,082 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:13:45,208 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:13:50,406 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:21:06,143 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:21:06,248 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:21:06,319 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:21:06,368 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:21:06,406 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:21:06,528 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:21:07,173 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:21:07,173 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:21:07,242 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:21:07,242 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:21:07,306 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:21:07,306 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:21:07,357 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:21:07,357 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:21:07,390 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:21:07,390 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:21:07,523 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:21:07,523 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:21:22,672 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:21:22,689 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:21:22,697 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:21:22,702 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:21:22,709 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:21:22,849 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:21:28,082 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:25:03,239 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:25:03,310 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:25:03,356 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:25:03,397 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:25:03,439 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:25:03,558 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:25:04,033 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:25:04,033 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:25:04,079 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:25:04,079 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:25:04,119 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:25:04,119 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:25:04,154 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:25:04,154 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:25:04,189 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:25:04,189 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:25:04,308 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:25:04,308 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:25:21,663 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:25:21,681 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:25:21,687 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:25:21,694 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:25:21,701 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:25:21,811 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:25:26,989 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:27:30,052 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:27:30,137 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:27:30,184 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:27:30,223 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:27:30,259 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:27:30,377 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:27:30,842 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:27:30,842 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:27:30,887 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:27:30,887 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:27:30,930 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:27:30,930 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:27:30,964 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:27:30,964 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:27:30,999 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:27:30,999 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:27:31,113 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:27:31,113 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:27:49,394 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:27:49,419 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:27:49,426 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:27:49,431 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:27:49,437 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:27:49,541 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:27:54,708 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-31 16:31:22,306 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:31:22,382 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:31:22,438 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:31:22,481 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:31:22,520 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:31:22,638 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:31:23,119 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:31:23,119 - test_HomePage.py:INFO :test_HomePage :Entering name
+2024-03-31 16:31:23,171 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:31:23,171 - test_HomePage.py:INFO :test_HomePage :Entering Email
+2024-03-31 16:31:23,215 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:31:23,215 - test_HomePage.py:INFO :test_HomePage :Entering password
+2024-03-31 16:31:23,250 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:31:23,250 - test_HomePage.py:INFO :test_HomePage :Checkbox clicked
+2024-03-31 16:31:23,285 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:31:23,285 - test_HomePage.py:INFO :test_HomePage :Gender selected
+2024-03-31 16:31:23,399 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:31:23,399 - test_HomePage.py:INFO :test_HomePage :Application message ×
+Success! The Form has been submitted successfully!.
+2024-03-31 16:31:42,612 - test_orderItem.py:INFO :test_orderItem :getting all the items
+2024-03-31 16:31:42,658 - test_orderItem.py:INFO :test_orderItem :iphone X
+2024-03-31 16:31:42,663 - test_orderItem.py:INFO :test_orderItem :Samsung Note 8
+2024-03-31 16:31:42,673 - test_orderItem.py:INFO :test_orderItem :Nokia Edge
+2024-03-31 16:31:42,680 - test_orderItem.py:INFO :test_orderItem :Blackberry
+2024-03-31 16:31:42,792 - test_orderItem.py:INFO :test_orderItem :Entering country name as ind
+2024-03-31 16:31:47,990 - test_orderItem.py:INFO :test_orderItem :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

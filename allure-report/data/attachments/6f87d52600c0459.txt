@@ -1,0 +1,7 @@
+INFO     test_HomePage:test_HomePage.py:12 Entering name
+INFO     test_HomePage:test_HomePage.py:14 Entering Email
+INFO     test_HomePage:test_HomePage.py:16 Entering password
+INFO     test_HomePage:test_HomePage.py:18 Checkbox clicked
+INFO     test_HomePage:test_HomePage.py:21 Gender selected
+INFO     test_HomePage:test_HomePage.py:26 Application message ×
+Success! The Form has been submitted successfully!.
