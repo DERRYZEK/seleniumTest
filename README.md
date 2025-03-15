@@ -4,3 +4,4 @@ Using "https://rahulshettyacademy.com/angularpractice/" as my test web applicati
 Integrated with Jenkins for continues integration whenever theres a push to GitHub
 Trial update
 coming
+news
