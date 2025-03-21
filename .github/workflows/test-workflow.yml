@@ -1,46 +1,51 @@
-name: Run Tests and Send Email on Failure
+# Name of the workflow - This will appear in the GitHub Actions tab
+name: Run Software Tests
 
+# Define when this workflow should run
 on:
   push:
     branches:
-      - main
+      - main   # Runs when code is pushed to the main branch
   pull_request:
     branches:
-      - main
+      - main   # Runs when a pull request is made to the main branch
 
+# Jobs section defines what actions will be performed
 jobs:
-  test:
-    runs-on: ubuntu-latest
+  run-tests:  # Name of the job
+    runs-on: ubuntu-latest  # This job runs on the latest Ubuntu Linux server
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # Step 1: Checkout Repository - Fetches the latest code from GitHub
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # GitHub-provided action to clone the repo
 
+      # Step 2: Set up Python Environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.9'  # Specify the Python version required for your tests
 
-      - name: Install dependencies
+      # Step 3: Install Dependencies - Installs all required packages
+      - name: Install Dependencies
         run: |
-          pip install -r requirements.txt
+          pip install --upgrade pip  # Upgrade pip to the latest version
+          pip install -r requirements.txt  # Install dependencies listed in requirements.txt
 
-      - name: Run tests
-        id: test_step
+      # Step 4: Run the Tests - Execute your test scripts using pytest
+      - name: Run Tests
         run: |
-          pytest > test-results.log || echo "TEST_FAILED=true" >> $GITHUB_ENV
+          pytest --junitxml=report.xml  # Run tests and generate a report
 
-      # If the tests fail, send an email alert
-      - name: Send email alert on failure
-        if: env.TEST_FAILED == 'true'
-        uses: dawidd6/action-send-mail@v3
+      # Step 5: Upload Test Reports - Saves test reports as artifacts for later viewing
+      - name: Upload Test Reports
+        uses: actions/upload-artifact@v4
         with:
-          server_address: smtp.gmail.com  # Change this if using a different email provider
-          server_port: 587
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "GitHub Actions Test Failure Alert 🚨"
-          to: "owusuansah.derrick@outlook.com"
-          from: "github-actions@example.com"
-          body: "Tests have failed in the repository. Please check the logs."
+          name: test-reports  # Name of the artifact
+          path: report.xml  # Path to the test report file
+
+      # Optional: Step 6 - Notify on Failure (Example using Slack)
+      - name: Notify on Failure
+        if: failure()
+        run: echo "Tests failed! Consider notifying the team."
 
