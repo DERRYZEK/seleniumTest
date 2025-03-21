@@ -1,0 +1,51 @@
+# Name of the workflow - This will appear in GitHub Actions tab
+name: Run Software Tests
+
+# Define when this workflow should run
+on:
+  push:
+    branches:
+      - main   # Runs when code is pushed to the main branch
+  pull_request:
+    branches:
+      - main   # Runs when a pull request is made to the main branch
+
+# Jobs section defines what actions will be performed
+jobs:
+  run-tests:  # Name of the job
+    runs-on: ubuntu-latest  # This job runs on the latest Ubuntu Linux server
+
+    steps:
+      # Step 1: Checkout Repository - Fetches the latest code from GitHub
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # GitHub-provided action to clone the repo
+
+      # Step 2: Set up Python Environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'  # Specify the Python version required for your tests
+
+      # Step 3: Install Dependencies - Installs all required packages
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip  # Upgrade pip to the latest version
+          pip install -r requirements.txt  # Install dependencies listed in requirements.txt
+
+      # Step 4: Run the Tests - Executes your test scripts using pytest
+      - name: Run Tests
+        run: |
+          pytest --junitxml=report.xml  # Run tests and generate a report
+
+      # Step 5: Upload Test Reports - Saves test reports as artifacts for later viewing
+      - name: Upload Test Reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports  # Name of the artifact
+          path: report.xml  # Path to the test report file
+
+      # Optional: Step 6 - Notify on Failure (Example using Slack)
+      - name: Notify on Failure
+        if: failure()
+        run: echo "Tests failed! Consider notifying the team."
+
